@@ -3,3 +3,5 @@
 # na proteção da branch main (Settings → Branches).
 /gitops/overlays/producao/  @guilherme-argentino
 /agente/prompts/            @guilherme-argentino
+
+@mfgallo
